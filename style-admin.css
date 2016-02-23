@@ -1,0 +1,10 @@
+.widefat {width: auto;}
+
+.alter-table th {
+        font-weight: 600;
+    text-decoration: underline;
+    background-color: #e5e5e5;
+}
+
+.alter-table tr:nth-child(even) {background: #FFF}
+.alter-table tr:nth-child(odd) {background: #e5e5e5}
